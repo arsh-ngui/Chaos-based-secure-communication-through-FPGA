@@ -1,0 +1,32 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -32 -72 32 72
+WINDOW 0 0 -72 Bottom 2
+WINDOW 3 0 72 Top 2
+SYMATTR Prefix X
+SYMATTR Value AD633
+SYMATTR ModelFile C:\Users\Arsh\Desktop\ad633.cir
+PIN -32 -48 LEFT 8
+PINATTR PinName x1
+PINATTR SpiceOrder 1
+PIN -32 -16 LEFT 8
+PINATTR PinName x2
+PINATTR SpiceOrder 2
+PIN -32 16 LEFT 8
+PINATTR PinName y1
+PINATTR SpiceOrder 3
+PIN -32 48 LEFT 8
+PINATTR PinName y2
+PINATTR SpiceOrder 4
+PIN 32 -48 RIGHT 8
+PINATTR PinName v-
+PINATTR SpiceOrder 5
+PIN 32 -16 RIGHT 8
+PINATTR PinName z
+PINATTR SpiceOrder 6
+PIN 32 16 RIGHT 8
+PINATTR PinName w
+PINATTR SpiceOrder 7
+PIN 32 48 RIGHT 8
+PINATTR PinName v+
+PINATTR SpiceOrder 8
